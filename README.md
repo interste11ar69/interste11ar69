@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋 
+# Hi, I'm [John Benedict P, Supnet] 👋 
 ### 3rd Year Computer Science Student | USeP Davao
 **Academic Excellence: 1.62 Cumulative GWA**
 
