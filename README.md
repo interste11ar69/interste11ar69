@@ -1,4 +1,4 @@
-# Hi, I'm [John Benedict P, Supnet] 👋 
+# Hi, I'm John Benedict P, Supnet 👋 
 ### 3rd Year Computer Science Student | USeP Davao
 **Academic Excellence: 1.62 Cumulative GWA**
 
@@ -18,8 +18,8 @@ I am a logic-driven developer with a strong foundation in database architecture 
 - **Tools:** Git, GitHub, MySQL.
 
 ### 📦 Current Project
-- **[Inventory Management System](link-to-your-repo):** A system focused on [mention 1 feature, e.g., real-time stock tracking] utilizing my core strengths in Database Management.
+
 
 ---
-📫 **Connect with me:** [Link to your LinkedIn]
+📫 **Connect with me:** www.linkedin.com/in/johnstellar
 *Preparing for a Software Engineering / Database focused role in 2026.*
