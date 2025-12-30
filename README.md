@@ -1,6 +1,5 @@
 # Hi, I'm John Benedict P, Supnet 👋 
 ### 3rd Year Computer Science Student | USeP Davao
-**Academic Excellence: 1.62 Cumulative GWA**
 
 I am a logic-driven developer with a strong foundation in database architecture and system design. I enjoy turning complex problems into organized, scalable code.
 
